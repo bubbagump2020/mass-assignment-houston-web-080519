@@ -3,9 +3,6 @@ class Person
   :height, :weight, :handed, :complexion, :t_shirt_size,
   :wrist_size, :glove_size, :pants_length, :pant_width
   
-  def initialize(attributes)
-    attributes.each do |key, value|
+  
       
-    end
-  end
 end
